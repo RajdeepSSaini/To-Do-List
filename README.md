@@ -14,5 +14,4 @@ A minimalistic and user-friendly to-do list application built with HTML, CSS, an
 If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. Contributions are welcome!
 
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+# Thank You!

@@ -1,4 +1,4 @@
-#To-Do List
+# To-Do List
 A minimalistic and user-friendly to-do list application built with HTML, CSS, and JavaScript. This project is designed to help you keep track of your tasks and stay organized.
 
 
